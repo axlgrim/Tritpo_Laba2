@@ -14,12 +14,15 @@ SQLite
 Взаимодействие с пользователем осуществляется при помощи анализа действий пользователя на экране.
 
 ![Процесс авторизации пользователя](https://github.com/axlgrim/Tritpo_Laba2/blob/master/Login.png)
+
 Процесс авторизации пользователя
 
 ![Макет главного меню](https://github.com/axlgrim/Tritpo_Laba2/blob/master/Main%20Menu.png)
+
 Макет главного меню
 
 ![Процесс изучения музыкальной темы](https://github.com/axlgrim/Tritpo_Laba2/blob/master/Theory%20Topic.png)
+
 Процесс изучения музыкальной темы
 
 2.3 Характеристики пользователей

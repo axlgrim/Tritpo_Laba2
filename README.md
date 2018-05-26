@@ -1,0 +1,1 @@
+# Tritpo_Laba2
